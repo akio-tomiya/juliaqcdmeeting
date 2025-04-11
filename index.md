@@ -1,8 +1,12 @@
 # User meeting for JuliaQCD
 
+<figure>
+  <img src="logo_juliaqcd.png" alt="Logo of JuliaQCD" width="40%" />
+</figure>
+
 # 概要
 [JuliaQCD](https://github.com/JuliaQCD) は2024年に発表された格子QCD計算のためのソフトウェアスイートです。
-このたび、JuliaQCDのユーザーミーティングを開催します。
+このたび、JuliaQCDのユーザーミーティングを下記の通り開催します。
 
 # 日時と場所
 - 2025/5/16 (金)
