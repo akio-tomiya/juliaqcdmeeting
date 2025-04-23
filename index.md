@@ -1,7 +1,7 @@
 # User meeting for JuliaQCD
 
 <figure>
-  <img src="https://github.com/JuliaQCD/.github/blob/main/profile/logo_juliaqcd.png" alt="Logo of JuliaQCD" width="40%" />
+  <img src="logo_juliaqcdx.png" alt="Logo of JuliaQCD" width="40%" />
 </figure>
 
 # 概要
