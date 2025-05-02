@@ -5,7 +5,7 @@
 </figure>
 
 # 概要
-[JuliaQCD](https://github.com/JuliaQCD) は2024年に発表された格子QCD計算のためのソフトウェアスイートです。
+JuliaQCDは2024年に発表された格子ゲージ理論の数値計算のためのソフトウェアスイートです。
 Julia言語は2018年にバージョン1が公開されたオープンソースの科学技術計算言語で、
 Fortranの様に高速でかつPythonの様に生産性の高い言語です。
 そのJulia言語を使って開発された格子QCD/パッケージが [JuliaQCD](https://github.com/JuliaQCD) です。
