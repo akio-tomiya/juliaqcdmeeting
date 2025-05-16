@@ -25,10 +25,10 @@ Fortranの様に高速でかつPythonの様に生産性の高い言語です。
 |10:35 - 12:00 | ユーザーブリーフィング1 (内部向け、非公開)|
 |13:30 - 14:30 | ユーザーブリーフィング2 (内部向け、非公開)|
 |  | (ここから公開) |
-|15:00 - 15:05 | 趣旨説明 |
-|15:05 - 16:00 | Juliaで始める格子QCDチュートリアル1 (GoogleColabで実行) |
+|<s>15:00</s>15:30 - <s>15:05</s>15:35 | 趣旨説明 |
+|<s>15:05</s>15:35 - 16:00 | Juliaで始める格子QCDチュートリアル1 (GoogleColabで実行) |
 |16:15 - 17:15 | Juliaで始める格子QCDチュートリアル2 (Gaugefields.jl/LatticeDiracOperators.jl でGPUを使う) |
-|17:15 - 18:00 | 研究事例紹介を数件を予定 |
+|17:30 - 18:00 | 研究事例紹介を数件を予定 |
 
 # 参加登録
 [参加登録はこちら](https://docs.google.com/forms/d/e/1FAIpQLScwgLxCH43zC0lBUH2tSE24g8505ukfhPQfcD0LvOCOdFhCtA/viewform)
