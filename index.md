@@ -27,8 +27,8 @@ Fortranの様に高速でかつPythonの様に生産性の高い言語です。
 |  | (ここから公開) |
 |<s>15:00</s>15:30 - <s>15:05</s>15:35 | 趣旨説明 |
 |<s>15:05</s>15:35 - 16:00 | Juliaで始める格子QCDチュートリアル1 (GoogleColabで実行) [コード](https://colab.research.google.com/drive/1Ujn-I6HB-RxF6VCuWvjg2qm1W4giZEDE?usp=sharing) |
-|16:15 - 17:15 | Juliaで始める格子QCDチュートリアル2 (Gaugefields.jl/LatticeDiracOperators.jl でGPUを使う) [コード](https://colab.research.google.com/drive/1-owRRxeNIsbTgFvkuE9R_NJYF42vZ60C?usp=sharing) |
-|17:30 - 18:00 | 研究事例紹介を数件を予定 |
+|16:15 - <s>17:15</s>16:45 | Juliaで始める格子QCDチュートリアル2 (Gaugefields.jl/LatticeDiracOperators.jl でGPUを使う) [コード](https://colab.research.google.com/drive/1-owRRxeNIsbTgFvkuE9R_NJYF42vZ60C?usp=sharing) |
+|<s>17:30</s>17:15 - 18:00 | 研究事例紹介を数件を予定 |
 
 # 参加登録
 [参加登録はこちら](https://docs.google.com/forms/d/e/1FAIpQLScwgLxCH43zC0lBUH2tSE24g8505ukfhPQfcD0LvOCOdFhCtA/viewform)
